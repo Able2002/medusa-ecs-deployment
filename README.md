@@ -2,6 +2,8 @@
 
 This project demonstrates how to deploy the Medusa open-source headless commerce platform backend on AWS ECS/Fargate using Infrastructure as Code (IaC) with Terraform and automates the deployment using GitHub Actions.
 
+https://github.com/user-attachments/assets/6609fd66-e4d7-4f2f-9f40-302fef900918
+
 ## Overview
 
 In this project, we:
